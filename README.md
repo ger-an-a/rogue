@@ -1,6 +1,6 @@
 ## Пошаговая Игра "РОГАЛИК" на JavaScript (Тестовое задание).
 
-[Открыть.](https://ger-an-a.github.io/rogue/)
+### [Открыть результат.](https://ger-an-a.github.io/rogue/)
 
 ### Текст задания: 
 Исходные данные: Архив с html, css, jquery и картинками
